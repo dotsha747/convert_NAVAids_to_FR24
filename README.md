@@ -1,6 +1,6 @@
 
 These are the scripts referenced in my blog post 
-http://blog.shahada.abubakar.net/post/flightradar24s-premium-radar-view-adding-airways-navaids-and-fixes. Please read through the blog post and comments for further details.
+http://blog.shahada.abubakar.net/post/flightradar24-s-premium-radar-view-adding-airways-navaids-and-fixes. Please read through the blog post and comments for further details.
 
 They can be used to convert NAVAID data from an X-Plane Installation / Navigraph subscription into a format suitable
 for use by FlightRadar24's radar mode. 
